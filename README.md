@@ -4,7 +4,7 @@ Ever needed an easy way to create symbolic links for a directory on OS X? Then j
 
 # How it works
 
-1. Download the repository and rename it to "symlink.workflow"
+1. Download the repository, unzip it and rename the created folder to "symlink.workflow"
 2. Drag the file into ```~/Library/Services```
 3. Bang, you're ready! :collision:
 
